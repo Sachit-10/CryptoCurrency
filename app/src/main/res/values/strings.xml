@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoCurrency</string>
+    <string name="name">Name</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="full_name">Full Name</string>
+    <string name="auto_refresh_in">Auto Refresh in</string>
+    <string name="last_refreshed_at">Last Refreshed at:</string>
+</resources>
